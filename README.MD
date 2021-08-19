@@ -3,4 +3,4 @@ I'm Ronnie, a Technologist and Artist at the core. I enjoy turning complex probl
 
 Aside from my daily work, I spend time doing research in the area of Computer Graphics and Computer Systems, how they can help us live better experiences.
 
-I believe when creating a better world through technology & design, possibilities are endless. I believe when creating a better world through technology & design, possibilities are endless. I'm interested and open to talking about Software Engineering for Computer Systems, Networking and Computer Graphics Technologies.
+I believe when creating a better world through technology & design, possibilities are endless. I believe when creating a better world through technology & design, possibilities are endless. I'm interested and open to talking about Software Engineering for Computer Systems and Computer Graphics Technologies.
