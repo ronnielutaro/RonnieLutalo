@@ -1,4 +1,4 @@
 ### Hello World ! 👋🏽
 I'm Ronnie, a Technologist and Artist at the core. 
 
-I enjoy turning complex problems into Technology, Design and Experiences that are both intuitive and exciting. 
+I enjoy converting complex problems into Technology, Design and Experiences that are both intuitive and exciting. 
