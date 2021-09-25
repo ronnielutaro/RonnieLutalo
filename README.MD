@@ -3,4 +3,4 @@ I'm Ronnie, a Software Engineer and Visual Artist at the core. I enjoy convertin
 
 Tools and Technologies I'm using: C#/ASP.NET, JavaScript/React.js, Unity 3D, Autodesk Maya, Adobe Creative Cloud
 
-I'm open to talking about Software Engineering, Computer Graphics, and Visual Arts
+I'm open to sharing and talking about Software Engineering, Computer Graphics, and Visual Arts
