@@ -3,4 +3,4 @@ I'm Ronnie, a Software Engineer and CG Artist at the core. I enjoy converting co
 
 Skilled at Coding, System Design, User Experience Design, Character Animation, Character Rigging, Storyboarding, 3D Modeling, Visual Effects.
 
-I'm open to sharing and talking about Software Engineering, Computer Graphics, and Visual Arts.
+I'm open to sharing and talking about Software Engineering, Computer Graphics(CG), and Visual Arts.
