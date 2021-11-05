@@ -3,4 +3,4 @@ I'm Ronnie, a Technologist and Artist at the core. I enjoy converting complex pr
 
 Some of the Tools and Technologies I'm using include: C#/ASP.NET, JavaScript/React.js, Autodesk Maya, Adobe Photoshop, Adobe Illustrator
 
-I'm open to talking about Software Engineering, Computer Graphics, Digital Design, and Visual Arts.
+I'm open to talking about Software Engineering, Computer Graphics (CGI), Digital Design, and Visual Arts.
