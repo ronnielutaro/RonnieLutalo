@@ -3,4 +3,4 @@ I'm Ronnie, a Technologist and Artist at the core. I enjoy converting complex pr
 
 Some of the Tools and Technologies I'm using include: C#/ASP.NET, JavaScript/React.js, Autodesk Maya, Adobe CC (Photoshop, Illustrator, XD, After Effects)
 
-I'm open to talking about Software Engineering, Computer Graphics, and Visual Arts.
+I'm open to talking about Software Engineering, Computer Graphics, and Visual Arts. To know what I'm up to or working on lately, checkout my [Official Website](ronnielutaro.github.io/portfolio/).
