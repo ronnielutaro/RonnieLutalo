@@ -1,3 +1,3 @@
 Passionate about computers, software and Art. I enjoy converting complex problems into technology and experiences that are both intuitive and exciting. Over time, I've worked on various projects involving Application & System Software. Aside from my daily work, I occasionally spend time contributing to Open-Source or working on Hobby projects in line with Computer Graphics, Animation, Filmmaking.
 
-To know what I'm up to, stuff I'm working on, or how to connect with me, checkout my <a href="https://ronnielutaro.github.io/portfolio/" target="_blank">Official Blog</a> where I get to write about Technology, Developer Productivity, Art.
+To know what I'm up to, stuff I'm working on, or how to connect with me, checkout my <a href="https://ronnielutaro.github.io/portfolio/" target="_blank">Official Blog</a> where I also get to write about Technology, Developer Productivity, Art.
