@@ -1,3 +1,5 @@
-I enjoy converting complex problems into technology and experiences that are both intuitive and exciting. Over time, I've worked on projects in different areas of Computer Science, involving Cloud Applications, Mobile Applications, 2D/3D Computer Graphics. Tools: C#, TypeScript, Kotlin
+👋 Hello! My name is Ronnie, I enjoy converting complex problems into technology and experiences that are both intuitive and exciting. Over time, I've worked on projects in different areas of Computer Science. 
+👨‍💻 Most of my endeavors are in C#, but every now and then I code in TypeScript and Kotlin as well. I'm primarily interested in the cloud, distributed systems, Mobile, Windows and 2D/3D Computer Graphics. 
+✏ My professional hobbies involve Open Source and blogging. Outside of that, I'm also into outdoor photography, digital art and sports.
 
 To know what stuff I'm working on, or how to connect with me, checkout my <a href="https://ronnielutaro.github.io/portfolio/" target="_blank">Official Blog</a> where I also get to write about Software Engineering and 2D/3D Computer Graphics.
