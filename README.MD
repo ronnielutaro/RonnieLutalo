@@ -1,4 +1,4 @@
 ### Hi there! 👋
 I'm Ronnie. I enjoy converting complex problems into technology and experiences that are both intuitive and exciting. Over time I've worked on [projects](https://ronnielutalo.github.io/projects/) in different areas of Computer Science. Most of my endeavors are in C#/.NET, but every now and then I code in TypeScript as well. I'm interested in the Cloud, Distributed Systems, Windows, Internet Of Things(IoT) and Computer Graphics. My professional hobbies involve contributing to Open-Source and blogging. Outside of that, I'm also into Filmmaking.
 
-To know more about what stuff I'm working on, or how to connect with me, checkout my <a href="https://ronnielutaro.github.io/portfolio/" target="_blank">Official Website</a> where I also get to write [articles](https://ronnielutalo.github.io/blog/) about Software Engineering and Computer Graphics.
+To see what I'm working on, here's a [link](https://ronnielutaro.github.io/) to my Personal Website. 
