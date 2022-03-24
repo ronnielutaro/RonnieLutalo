@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Ronnie, a Software Engineer based in Uganda, currently building technology and experiences for humans. Most of my endeavors are in C#, but every now and then I code in TypeScript/JavaScript as well. I'm primarily interested in Distributed Systems and the Cloud. My professional hobbies involve contributing to Open-Source and [blogging](https://ronnielutaro.github.io/blog). I currently as well lead and run a .NET/C# Developer [community](https://chat.whatsapp.com/D8MPoXMBDvj9c9MLfoxOnL) in Kampala under [O.S.C.A Kampala](https://oscakampala.github.io). Outside of that, I'm also into Art. In my spare time I enjoy dancing.
+I'm Ronnie, a Software Engineer based in Uganda. Most of my endeavors are in C#, but every now and then I code in TypeScript/JavaScript as well. I'm primarily interested in Distributed Systems and the Cloud. My professional hobbies involve contributing to Open-Source and [blogging](https://ronnielutaro.github.io/blog). I currently as well lead and run a .NET/C# Developer [community](https://chat.whatsapp.com/D8MPoXMBDvj9c9MLfoxOnL) in Kampala under [O.S.C.A Kampala](https://oscakampala.github.io). Outside of that, I'm also into Art. In my spare time I enjoy dancing.
 
 Other technologies I work with include: ASP.NET Core, React.js, SQL and NoSQL Databases, Cloud (Microsoft Azure, Digital Ocean).
 
