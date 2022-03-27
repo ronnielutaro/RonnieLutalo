@@ -3,5 +3,5 @@ I'm Ronnie, a Software Engineer based in Uganda. Most of my endeavors are in C#,
 
 Other technologies I work with include: ASP.NET Core, SQL, React.js.
 
-I occasionally write on my [Personal Website](https://ronnielutalo.github.io/) to share about my [personal projects](https://ronnielutalo.github.io/projects/), what I'm working on, and also also my lessons along the way.
+I occasionally write on my [Personal Website](https://ronnielutalo.github.io/) about my [personal projects](https://ronnielutalo.github.io/projects/), what I'm working on, and also share some of my lessons along the way.
 
