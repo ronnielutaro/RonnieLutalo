@@ -3,5 +3,5 @@ I'm Ronnie, a Software Engineer based in Uganda. Most of my endeavors are in C#,
 
 Other tools & technologies I mostly use include: ASP.NET Core, Entity Framework Core, Xamarin, React.js, Microsoft Azure, PostgreSQL, HTML, CSS.
 
-I occasionally write on my [Personal Website](https://ronnielutalo.github.io/) about [personal projects](https://ronnielutalo.github.io/projects/), Product Development, Software Engineering, Computer Graphics. The best way to reach me is through email: ronnielutaro@gmail.com
+I occasionally write on my [Personal Website](https://ronnielutalo.github.io/) about [personal projects](https://ronnielutalo.github.io/projects/), Product Development, Software Engineering, Computer Graphics and Art. The best way to reach me is through email: ronnielutaro@gmail.com
 
