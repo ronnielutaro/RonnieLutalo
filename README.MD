@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Ronnie, a Software Engineer and Product Designer from Kampala, Uganda. At the moment, I mostly work on Backend Services, Distributed Systems and the Cloud. Driven by a desire and constant curiosity about creating great products that fully empower the user from end to end, I often find myself working on Product Design and Frontend development from time to time. I believe great products that truly enhance humanity and bring joy to the world unlock many new possibilities.
+I'm Ronnie, a Software Engineer and Product Designer from Kampala, Uganda. Driven by a desire and constant curiosity about creating great products that fully empower the user from end to end. I believe great products that truly enhance humanity and bring joy to the world unlock many new possibilities.
 
 I mostly code using C# and JavaScript. I work with several other tools including ASP.NET Core, Entity Framework Core, Xamarin, React.js, Microsoft Azure, PostgreSQL, Docker, Figma, Adobe illustrator, Adobe Photoshop, Adobe XD..
 
