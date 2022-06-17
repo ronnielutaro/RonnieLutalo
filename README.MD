@@ -3,5 +3,5 @@ I'm Ronnie, a Software Engineer from Kampala, Uganda. I mostly work on Backend S
 
 I mostly code using C# and JavaScript. I work with several other tools including ASP.NET Core, Entity Framework Core, Xamarin, React.js, Microsoft Azure, PostgreSQL, Docker, Figma, Adobe illustrator, Adobe Photoshop, Adobe XD.
 
-Occasionally I write on my [Personal Website](https://ronnielutalo.github.io/) about [Personal Projects](https://ronnielutalo.github.io/projects/), Product Development, Product Design, Software Engineering and Computer Graphics. The best way to reach me is through email: ronnielutaro@gmail.com
+Occasionally I write on my [Personal Website](https://ronnielutalo.github.io/) about [Personal Projects](https://ronnielutalo.github.io/projects/), Product Development, Software Engineering and Computer Graphics. The best way to reach me is through email: ronnielutaro@gmail.com
 
