@@ -1,4 +1,4 @@
-Driven by desire and constant curiosity about creating great products that truly enhance humanity and bring joy to the world, I believe that unlocks many new possibilities.
+Driven by desire and constant curiosity about creating products that truly enhance humanity, deliver great experiences and bring joy to the world. I believe that unlocks many new possibilities.
 
 I mostly code using C# but every now and then use JavaScript/TypeScript. Aside from that, I use several other tools including ASP.NET Core, Entity Framework Core, React.js, Microsoft Azure, SQL, WPF, MAUI. 
 
